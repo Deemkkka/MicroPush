@@ -23,7 +23,6 @@ namespace MicroPush
     public partial class secondWindow : Window
     {
      
-
         public secondWindow()
         {
             InitializeComponent();
